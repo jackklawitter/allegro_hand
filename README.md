@@ -3,10 +3,10 @@
 Allegro Hand ROS
 ================================
 
-This is the official release to control Allegro Hand with ROS Kinetic.
+This a modified version of the official release to control Allegro Hand with ROS Kinetic.
 Mostly, it is based on the old release of Allegro Hand ros package and the interfaces 
 and controllers have been improved and rewritten much by Felix Duballet from EPFL. 
-Thank you for the contribution.
+Thank you for the contribution. It is tested and working with Allegro Hand V 4.0, ROS Kinetic and Ubuntu 16.04
 
 You can find old release of the [hand ros package][1].
 [1]: https://github.com/simlabrobotics/allegro_hand_ros_v4
