@@ -3,3 +3,4 @@ devel/
 logs/
 .catkin_tools/
 .catkin_workspace
+*.DS_Store
